@@ -1,1 +1,1 @@
-# Alice-AI(a voice assistant) and a hand tracking module
+# Alice-AI(a voice assistant) , A hand tracking module
